@@ -1,0 +1,10 @@
+{
+  "name": "Example Business",
+  "niche": "fitness",
+  "business_type": "gym",
+  "location": "Umhlanga, Durban",
+  "hours": "Mon-Fri 06:00-20:00, Sat 08:00-13:00, Sun closed",
+  "pricing": "R650/month, no contract",
+  "usps": ["24/7 access via app", "Free first PT session", "On-site parking"],
+  "competitors": ["Virgin Active Umhlanga", "Planet Fitness Umhlanga"]
+}
